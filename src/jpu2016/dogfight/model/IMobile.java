@@ -1,5 +1,5 @@
 package jpu2016.dogfight.model;
 
-interface IMobile {
+public interface IMobile {
 
 }
